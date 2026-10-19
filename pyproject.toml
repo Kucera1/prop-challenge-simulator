@@ -1,0 +1,9 @@
+[project]
+name = "prop-challenge-simulator"
+version = "0.1.0"
+description = "Monte Carlo simulator of prop-firm challenge rules on synthetic trades"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
