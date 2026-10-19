@@ -72,6 +72,8 @@ S `--drift 0.0` (avgR po nákladech −0,02 R, interval −0,09 .. +0,05) projde
 - Syntetický proces nemá režimy trhu ani tlusté chvosty; výsledky jsou ilustrace metody, ne odhad
   pro žádnou reálnou strategii.
 
+Vytvořeno s pomocí AI (Claude Code). Zadání, návrh, kontrola a testování: Jaroslav Kučera.
+
 ---
 
 ## English
@@ -136,6 +138,8 @@ With `--drift 0.0` (avgR after costs −0.02 R, interval −0.09 .. +0.05) **26 
 - Swaps, challenge fees, currency conversion, "consistency" rules or weekend-holding bans.
 - The synthetic process has no market regimes or fat tails; results illustrate the method and are
   not an estimate for any real strategy.
+
+Built with AI assistance (Claude Code). Specification, design, review and testing: Jaroslav Kučera.
 
 ---
 
